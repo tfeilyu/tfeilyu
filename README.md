@@ -1,13 +1,12 @@
-### Hi there 👋 I am Tengfei.
+### Hi, there 👋 Welcome to my GitHub! 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=tfeilyu.github.io" alt="visitors" style="margin-top: 0px">
-<a href="https://github.com/tfeilyu/"><img src="https://img.shields.io/badge/homepage-tfeilyu.github.io-%2376448A%20" alt="visitors" style="margin-top: 0px"></a>
-<a href="https://github.com/tfeilyu/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tfeilyu?style=social"></a>
-<a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/twitter/follow/tengfeilyu?style=social" alt="visitors" style="margin-top: 0px"></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=tfeilyu.github.io" alt="visitors" style="margin-top: 0px"><a href="https://github.com/tfeilyu/"><img src="https://img.shields.io/badge/homepage-tfeilyu.github.io-%2376448A%20" alt="visitors" style="margin-top: 0px"></a><a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ&hl=zh-CN/"><img src="https://img.shields.io/badge/Google%20Scholar-FfZKK9sAAAAJ-%23117A65" alt="visitors" style="margin-top: 0px"></a><a href="https://github.com/tfeilyu/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tfeilyu?style=social"></a><a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/twitter/follow/tengfeilyu?style=social" alt="visitors" style="margin-top: 0px"></a>
 
 
 
-Welcome to my GitHub.
+Welcome to my GitHub. I am currently an incoming Ph.D. student at AI Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), [HKUST(GZ)](https://hkust-gz.edu.cn/). My research focuses on Graph Representation Learning, specifically the area of Graph Neural Networks including their theoretical foundations and applications.
+
+
 
 <!--
 **tfeilyu/tfeilyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
+  -->
