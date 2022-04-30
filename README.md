@@ -4,16 +4,11 @@
 
 
 
-Welcome to my GitHub. I am currently an incoming Ph.D. student at AI Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), [HKUST(GZ)](https://hkust-gz.edu.cn/). My research focuses on Graph Representation Learning, specifically the area of Graph Neural Networks including their theoretical foundations and applications.
-
-
-
-<!--
-**tfeilyu/tfeilyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tengfei Lyu, a Ph.D. student at AI Thrust, Information Hub, HKUST(GZ). My research focuses on Graph Representation Learning.**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Graph Representation Learning.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
