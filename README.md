@@ -15,7 +15,7 @@
 </p> -->
 
 <p align="center">
-  <b>📬 Building deployable AI for real-world decision-making — and looking for my next role.</b><br>
+  <!-- <b>📬 Building deployable AI for real-world decision-making — and looking for my next role.</b><br> -->
   <a href="https://tfeilyu.github.io/">Homepage</a> ·
   <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ">Scholar</a> ·
   <a href="https://twitter.com/tengfeilyu">X / Twitter</a> ·
