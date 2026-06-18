@@ -61,9 +61,9 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | 🧭 Theme | Focus | Representative work |
 |:---|:---|:---|
-| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** · **LLM-ODDR** |
-| 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** · **NRFormer** · **MDNN** · **MGNN** |
-| ⚙️ **Automated Machine Learning** | NAS for spatio-temporal data, graphs & molecules | **AutoSTF** · **Auto-GNAS** · **GraphPAS** |
+| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** <sub>(VLDB '27, under review)</sub> · **LLM-ODDR** <sub>(IEEE TITS '26)</sub> |
+| 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** <sub>(KDD '26)</sub> · **NRFormer** <sub>(KDD '25)</sub> · **MDNN** <sub>(IJCAI '21)</sub> · **MGNN** <sub>(SIGIR '20)</sub> |
+| ⚙️ **Automated Machine Learning** | NAS for spatio-temporal data, graphs & molecules | **AutoSTF** <sub>(KDD '25)</sub> · **Auto-GNAS** <sub>(IEEE TPDS '22)</sub> · **GraphPAS** <sub>(SIGIR '21)</sub> |
 
 <details open>
 <summary><b>📂 Expand for per-paper details</b></summary>
@@ -133,7 +133,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 **Reviewer** — SIGKDD (2024/2025/2026), WebConf (2025/2026), NeurIPS (2023/2024), TKDE, TKDD, TIST, TITS.
 
-**Selected awards** — Best Research Award (2026, AI@HKUST(GZ)) · ACM SIGKDD Student Travel Award (2025)· ACM SIGIR Student Travel Award (2020) · Outstanding Paper Award (2024) · Outstanding Graduate of Hunan Province, Top 1% (2022) · National Scholarship, Top 1% (2016/2018/2020) · Liaoning Provincial Government Scholarship, Top 1% (2017)· Presidential Scholarship, Top 0.1% (2018) · President Innovation Scholarship, Top 0.1% (2021).
+**Selected awards** — **Best Research Award** (2026, AI@HKUST(GZ)) · **ACM SIGKDD Student Travel Award** (2025)· **ACM SIGIR Student Travel Award** (2020) · **Outstanding Paper Award** (2024) · **Outstanding Graduate of Hunan Province**, Top 1% (2022) · **National Scholarship**, Top 1% (2016/2018/2020) · **Liaoning Provincial Government Scholarship**, Top 1% (2017)· **Presidential Scholarship**, Top 0.1% (2018) · **President Innovation Scholarship**, Top 0.1% (2021).
 
 <!-- ---
 
