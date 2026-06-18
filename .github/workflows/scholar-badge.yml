@@ -40,7 +40,7 @@ jobs:
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
           auth: ${{ secrets.GIST_SECRET }}
-          gistID: __GIST_ID__
+          gistID: a36d7a592cd5a400e3eeef53815fa04b
           filename: scholar.json
           label: Google Scholar
           message: ${{ steps.cites.outputs.count }} citations
