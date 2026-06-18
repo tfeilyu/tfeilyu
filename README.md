@@ -61,9 +61,9 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | 🧭 Theme | Focus | Representative work |
 |:---|:---|:---|
-| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** <sub>(VLDB '27, under review)</sub> · **LLM-ODDR** <sub>(IEEE TITS '26)</sub> |
-| 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** <sub>(KDD '26)</sub> · **NRFormer** <sub>(KDD '25)</sub> · **MDNN** <sub>(IJCAI '21)</sub> · **MGNN** <sub>(SIGIR '20)</sub> |
-| ⚙️ **Automated Machine Learning** | NAS for spatio-temporal data, graphs & molecules | **AutoSTF** <sub>(KDD '25)</sub> · **Auto-GNAS** <sub>(IEEE TPDS '22)</sub> · **GraphPAS** <sub>(SIGIR '21)</sub> |
+| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** (VLDB '27, under review) · **LLM-ODDR** (IEEE TITS '26) |
+| 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** (KDD '26) · **NRFormer** (KDD '25) · **MDNN** (IJCAI '21) · **MGNN** (SIGIR '20) |
+| ⚙️ **Automated Machine Learning** | NAS for spatio-temporal data, graphs & molecules | **AutoSTF** (KDD '25) · **Auto-GNAS** (IEEE TPDS '22) · **GraphPAS** (SIGIR '21) |
 
 <details open>
 <summary><b>📂 Expand for per-paper details</b></summary>
@@ -83,8 +83,8 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 **⚙️ Automated Machine Learning (AutoML)**
 - **AutoSTF** — decoupled NAS for cost-effective automated **spatio-temporal forecasting**; up to **13.48× speedup**. [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF)
-- **Auto-GNAS** — parallel **graph neural architecture search** framework *(co-author)*. [Paper](https://ieeexplore.ieee.org/abstract/document/9714826) · [Code](https://github.com/AutoMachine0/Auto-GNAS) · *(IEEE TPDS 2022, CCF A)*
-- **GraphPAS** — parallel architecture search for **graph neural networks** *(co-author)*. [Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463007) · [Code](https://github.com/AutoMachine0/Auto-GNAS) · *(SIGIR 2021, CCF A)*
+- **Auto-GNAS** — parallel **graph neural architecture search** framework *(co-author)*. [Paper](https://ieeexplore.ieee.org/abstract/document/9714826) · [Code](https://github.com/AutoMachine0/Auto-GNAS)
+- **GraphPAS** — parallel architecture search for **graph neural networks** *(co-author)*. [Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463007) · [Code](https://github.com/AutoMachine0/Auto-GNAS)
 <!-- - **Graph Neural Architecture Search: A Survey** — a systematic survey of graph NAS *(co-author; 🏆 Outstanding Paper Award)*. [Paper](https://ieeexplore.ieee.org/abstract/document/9645440) · *(Tsinghua Sci. & Tech. 2021, JCR Q1)* -->
 
 </details>
