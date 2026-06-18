@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://tfeilyu.github.io/"><img src="https://img.shields.io/badge/Homepage-0969DA?style=flat&logo=githubpages&logoColor=white" alt="Homepage"></a>
   <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=flat&logo=github&logoColor=white&label=Followers&labelColor=181717&color=181717" alt="GitHub followers"></a>
+  <!-- <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=flat&logo=github&logoColor=white&label=Followers&labelColor=181717&color=181717" alt="GitHub followers"></a> -->
   <a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/badge/@tengfeilyu-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:lyutf@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
   &nbsp;<img src="https://komarev.com/ghpvc/?username=tfeilyu&label=Views&color=475569&style=flat" alt="Profile views">
