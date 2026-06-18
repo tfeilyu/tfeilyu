@@ -68,7 +68,7 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
 
 My work turns frontier AI into **deployed systems** that make consequential decisions in the physical world.
 
-| 🧭 Theme | Focus | Representative work |
+| Theme | Focus | Representative work |
 |:---|:---|:---|
 | 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** (VLDB '27, under review) · **LLM-ODDR** (IEEE TITS '26) |
 | 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** (KDD '26) · **NRFormer** (KDD '25) · **MDNN** (IJCAI '21) · **MGNN** (SIGIR '20) |
