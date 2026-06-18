@@ -115,13 +115,13 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 |:------|:------|:------|
 | **TKDE**<sup>†</sup> | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
 | **VLDB**<sup>†</sup> | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
-| **IEEE TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
-| **KDD 2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
-| **KDD 2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
-| **KDD 2025** <br> *(CCF A)* | **NRFormer**: Nationwide Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2410.11924) · [Code](https://github.com/usail-hkust/NRFormer) |
-| **IEEE TCBB** <br> *(CCF B)* | **Predicting Cancer-Patient Survival with a Multimodal GNN** <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://doi.org/10.1109/TCBB.2021.3083566) |
-| **IJCAI 2021** <br> *(CCF A)* | **MDNN**: Multimodal Deep Neural Network for Drug–Drug Interaction Events <br> <sub>Tengfei Lyu, et al.</sub> | [Paper](https://www.ijcai.org/proceedings/2021/487) |
-| **SIGIR 2020** <br> *(CCF A)* | **MGNN**: Multimodal GNN for Cancer Patient Survival <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214) |
+| **IEEE&nbsp;TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
+| **KDD&nbsp;2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
+| **KDD&nbsp;2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
+| **KDD&nbsp;2025** <br> *(CCF A)* | **NRFormer**: Nationwide Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2410.11924) · [Code](https://github.com/usail-hkust/NRFormer) |
+| **IEEE&nbsp;TCBB** <br> *(CCF B)* | **Predicting Cancer-Patient Survival with a Multimodal GNN** <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://doi.org/10.1109/TCBB.2021.3083566) |
+| **IJCAI&nbsp;2021** <br> *(CCF A)* | **MDNN**: Multimodal Deep Neural Network for Drug–Drug Interaction Events <br> <sub>Tengfei Lyu, et al.</sub> | [Paper](https://www.ijcai.org/proceedings/2021/487) |
+| **SIGIR&nbsp;2020** <br> *(CCF A)* | **MGNN**: Multimodal GNN for Cancer Patient Survival <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214) |
 
 <sub>\* equal contribution &nbsp;·&nbsp; † under review. &nbsp; Full list on <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ">Google Scholar</a>.</sub>
 
