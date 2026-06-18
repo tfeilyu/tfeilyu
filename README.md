@@ -71,8 +71,8 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 <br>
 
 **🤖 LLM Agents for Decision-Making**
-- **ProfiLLM** — agentic LLM with utility-aligned user profiling for industrial ride-hailing dispatch; deployed on DiDi (Brazil). [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM)
-- **LLM-ODDR** — the *first* LLM framework for joint **order dispatching and driver repositioning** (fine-tuned JointDR-GPT). [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR)
+- **ProfiLLM** — agentic LLM with utility-aligned user profiling for industrial ride-hailing dispatch; deployed on DiDi. [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM)
+- **LLM-ODDR** — the *first* LLM framework for joint **order dispatching and driver repositioning**. [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR)
 
 **🔬 AI for Science**
 - **TelePiT** — Physics-Informed Teleconnection-Aware Transformer for global **subseasonal-to-seasonal forecasting**. [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT)
@@ -113,8 +113,8 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | Venue | Paper | Links |
 |:------|:------|:------|
-| **TKDE** <br> *(under review)* | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
-| **VLDB** <br> *(under review)* | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
+| **TKDE**<sup>†</sup> | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
+| **VLDB**<sup>†</sup> | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
 | **IEEE TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
 | **KDD 2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
 | **KDD 2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
@@ -123,7 +123,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 | **IJCAI 2021** <br> *(CCF A)* | **MDNN**: Multimodal Deep Neural Network for Drug–Drug Interaction Events <br> <sub>Tengfei Lyu, et al.</sub> | [Paper](https://www.ijcai.org/proceedings/2021/487) |
 | **SIGIR 2020** <br> *(CCF A)* | **MGNN**: Multimodal GNN for Cancer Patient Survival <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214) |
 
-<sub>\* equal contribution. Full list on <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ">Google Scholar</a>.</sub>
+<sub>\* equal contribution &nbsp;·&nbsp; † under review. &nbsp; Full list on <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ">Google Scholar</a>.</sub>
 
 </details>
 
