@@ -6,15 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://tfeilyu.github.io/"><img src="https://img.shields.io/badge/Homepage-tfeilyu.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage"></a>
-  <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-~580_citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=24292e" alt="GitHub followers"></a>
-  <a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/badge/X-@tengfeilyu-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"></a>
-  <a href="mailto:lyutf@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tfeilyu&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views">
+  <a href="https://tfeilyu.github.io/"><img src="https://img.shields.io/badge/Homepage-1f6feb?style=flat-square&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117" alt="Google Scholar"></a>
+  <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=1f6feb" alt="GitHub followers"></a>
+  <a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/badge/@tengfeilyu-0d1117?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="X"></a>
+  <a href="mailto:lyutf@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&labelColor=0d1117" alt="Email"></a>
+  &nbsp;<img src="https://komarev.com/ghpvc/?username=tfeilyu&label=Views&color=0d1117&style=flat-square" alt="Profile views">
 </p>
 
 ---
@@ -23,8 +20,10 @@
 
 > I don't just publish models — I ship them. My work runs live, at scale, with verified gains.
 
-- **🚕 ProfiLLM — live on DiDi (Brazil).** An agentic LLM framework with utility-aligned user profiling for industrial ride-hailing dispatch. **Deployed across three cities in Brazil, serving millions of daily orders, with verified live A/B-test gains.** &nbsp;[🌐 Project](https://profillm.github.io/) · [💻 Code](https://github.com/ProfiLLM/ProfiLLM) · *(VLDB, under review)*
-- **☢️ NRFormer — deployed nationwide.** A spatio-temporal transformer for nationwide nuclear-radiation forecasting, **online for 1–24 day forecasts.** &nbsp;[📄 arXiv](https://arxiv.org/abs/2410.11924) · [💻 Code](https://github.com/usail-hkust/NRFormer) · *(KDD 2025, CCF A)*
+- **🚕 ProfiLLM — live on DiDi (Brazil).** An agentic LLM framework with utility-aligned user profiling for industrial ride-hailing dispatch. **Deployed across three cities in Brazil, serving millions of daily orders, with verified live A/B-test gains.** <br>
+[🌐 Project](https://profillm.github.io/) · [💻 Code](https://github.com/ProfiLLM/ProfiLLM) · *(VLDB, under review)*
+- **☢️ NRFormer — deployed nationwide.** A spatio-temporal transformer for nationwide nuclear-radiation forecasting, **online for 1–24 day forecasts.** <br>
+[📄 arXiv](https://arxiv.org/abs/2410.11924) · [💻 Code](https://github.com/usail-hkust/NRFormer) · *(KDD 2025, CCF A)*
 
 ---
 
@@ -114,15 +113,15 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | Venue | Paper | Links |
 |:------|:------|:------|
-| **TKDE** *(under review)* | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
-| **VLDB** *(under review)* | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
-| **IEEE TITS** *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
-| **KDD 2026** *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
-| **KDD 2025** *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
-| **KDD 2025** *(CCF A)* | **NRFormer**: Nationwide Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2410.11924) · [Code](https://github.com/usail-hkust/NRFormer) |
-| **IEEE TCBB** *(CCF B)* | **Predicting Cancer-Patient Survival with a Multimodal GNN** <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://doi.org/10.1109/TCBB.2021.3083566) |
-| **IJCAI 2021** *(CCF A)* | **MDNN**: Multimodal Deep Neural Network for Drug–Drug Interaction Events <br> <sub>Tengfei Lyu, et al.</sub> | [Paper](https://www.ijcai.org/proceedings/2021/487) |
-| **SIGIR 2020** *(CCF A)* | **MGNN**: Multimodal GNN for Cancer Patient Survival <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214) |
+| **TKDE** <br> *(under review)* | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
+| **VLDB** <br> *(under review)* | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
+| **IEEE TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
+| **KDD 2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
+| **KDD 2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
+| **KDD 2025** <br> *(CCF A)* | **NRFormer**: Nationwide Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2410.11924) · [Code](https://github.com/usail-hkust/NRFormer) |
+| **IEEE TCBB** <br> *(CCF B)* | **Predicting Cancer-Patient Survival with a Multimodal GNN** <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://doi.org/10.1109/TCBB.2021.3083566) |
+| **IJCAI 2021** <br> *(CCF A)* | **MDNN**: Multimodal Deep Neural Network for Drug–Drug Interaction Events <br> <sub>Tengfei Lyu, et al.</sub> | [Paper](https://www.ijcai.org/proceedings/2021/487) |
+| **SIGIR 2020** <br> *(CCF A)* | **MGNN**: Multimodal GNN for Cancer Patient Survival <br> <sub>Jianliang Gao, Tengfei Lyu (First Student Author), et al.</sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214) |
 
 <sub>\* equal contribution. Full list on <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ">Google Scholar</a>.</sub>
 
