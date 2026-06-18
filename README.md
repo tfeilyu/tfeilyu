@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About me
 
-I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou**, advised by **[Prof. Hao Liu](https://raymondhliu.github.io/)** and **[Prof. Hai Yang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hai-yang-cehyang)**. I work closely with **[Prof. Hui Xiong](https://hkustai.github.io/)** (Chair Professor) on LLMs and foundation models for **urban general intelligence**.
+I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou**, advised by **[Prof. Hao Liu](https://raymondhliu.github.io/)** and **[Prof. Hai Yang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hai-yang-cehyang)** (Chair Professor). I work closely with **[Prof. Hui Xiong](https://hkustai.github.io/)** (Chair Professor) on LLMs and foundation models for **urban general intelligence**.
 
 <!-- Previously: **M.Eng. in Computer Technology, Central South University (2022)** and **B.S. in Computer Science &amp; Technology, Bohai University (ranked 1/243)**. -->
 
