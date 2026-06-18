@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://tfeilyu.github.io/"><img src="https://img.shields.io/badge/Homepage-1f6feb?style=flat-square&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Homepage"></a>
-  <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117" alt="Google Scholar"></a>
-  <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=1f6feb" alt="GitHub followers"></a>
-  <a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/badge/@tengfeilyu-0d1117?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="X"></a>
-  <a href="mailto:lyutf@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&labelColor=0d1117" alt="Email"></a>
-  &nbsp;<img src="https://komarev.com/ghpvc/?username=tfeilyu&label=Views&color=0d1117&style=flat-square" alt="Profile views">
+  <a href="https://tfeilyu.github.io/"><img src="https://img.shields.io/badge/Homepage-0969DA?style=flat&logo=githubpages&logoColor=white" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=FfZKK9sAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://github.com/tfeilyu"><img src="https://img.shields.io/github/followers/tfeilyu?style=flat&logo=github&logoColor=white&label=Followers&labelColor=181717&color=181717" alt="GitHub followers"></a>
+  <a href="https://twitter.com/tengfeilyu"><img src="https://img.shields.io/badge/@tengfeilyu-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:lyutf@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  &nbsp;<img src="https://komarev.com/ghpvc/?username=tfeilyu&label=Views&color=475569&style=flat" alt="Profile views">
 </p>
 
 ---
@@ -42,10 +42,10 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
 ## 📊 By the numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCF--A_papers-5_(first%2Fco--first)-success?style=flat-square" alt="CCF-A papers">
-  <img src="https://img.shields.io/badge/IEEE_Transactions-2_(first--author)-blue?style=flat-square" alt="IEEE Transactions">
-  <img src="https://img.shields.io/badge/Citations-~580-orange?style=flat-square" alt="Citations">
-  <img src="https://img.shields.io/badge/Production_deployments-2-red?style=flat-square" alt="Deployments">
+  <img src="https://img.shields.io/badge/CCF--A_papers-5_(first%2Fco--first)-success?style=flat" alt="CCF-A papers">
+  <img src="https://img.shields.io/badge/IEEE_Transactions-2_(first--author)-blue?style=flat" alt="IEEE Transactions">
+  <img src="https://img.shields.io/badge/Citations-~580-orange?style=flat" alt="Citations">
+  <img src="https://img.shields.io/badge/Production_deployments-2-red?style=flat" alt="Deployments">
 </p>
 
 - 🏆 **5 first / co-first-author CCF-A papers** (KDD, IJCAI, SIGIR)
