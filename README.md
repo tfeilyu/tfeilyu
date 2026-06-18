@@ -48,8 +48,9 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
   <img src="https://img.shields.io/badge/Production_deployments-2-red?style=flat" alt="Deployments">
 </p>
 
-- 🏆 **5 first / co-first-author CCF-A papers** (KDD, IJCAI, SIGIR)
+- 🏆 **5 first-author CCF-A papers** (KDD, IJCAI, SIGIR)
 - 📚 **2 first-author IEEE Transactions papers** (TITS, TCBB)
+- 📝 **2 first/co-first author papers under review** (VLDB, TKDE)
 - 📈 **~580 citations** (Google Scholar)
 - 🌍 **2 real-world deployments** — ProfiLLM on DiDi Brazil; NRFormer online nationwide
 
