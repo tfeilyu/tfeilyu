@@ -1,18 +1,13 @@
 # ─────────────────────────────────────────────────────────────────────────────
-# 把这个文件放到你的 profile 仓库里,路径必须是:
-#     tfeilyu/tfeilyu/.github/workflows/scholar-badge.yml
-# (GitHub 只识别仓库根目录下的 .github/workflows/。本地这个 profile_repo/ 前缀
-#  只是为了暂存、避免在 MyInfo 仓库里误触发,复制时去掉 profile_repo/ 即可。)
-#
-# 用前替换:把下面的 __GIST_ID__ 改成你自己 Gist 的 ID。
-# 依赖的仓库 secret:GIST_SECRET(一个带 gist 权限的 Personal Access Token)。
+# 放到 profile 仓库:tfeilyu/tfeilyu/.github/workflows/scholar-badge.yml
+# 需要仓库 secret:GIST_SECRET(带 gist 权限的 Personal Access Token)
 # ─────────────────────────────────────────────────────────────────────────────
 name: Update Google Scholar badge
 
 on:
   schedule:
-    - cron: "0 8 * * *"        # 每天 08:00 UTC 跑一次
-  workflow_dispatch: {}         # 也可在 Actions 页手动触发
+    - cron: "0 8 * * *"        # 每天 08:00 UTC
+  workflow_dispatch: {}         # 支持手动触发
 
 permissions:
   contents: read
@@ -27,14 +22,36 @@ jobs:
 
       - name: Fetch citation count from Google Scholar
         id: cites
+        shell: python
         run: |
-          pip install --quiet gsbg
-          python - <<'PY' >> "$GITHUB_OUTPUT"
-          from gsbg import fetch_profile_citation_num
-          n = fetch_profile_citation_num("FfZKK9sAAAAJ")   # 你的 Scholar ID
-          assert n and int(n) > 0, f"unexpected citation count: {n!r}"
-          print(f"count={int(n)}")
-          PY
+          import os, re, sys, urllib.request
+
+          USER = "FfZKK9sAAAAJ"   # 你的 Google Scholar ID
+          url = f"https://scholar.google.com/citations?user={USER}&hl=en"
+          req = urllib.request.Request(url, headers={
+              "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                             "AppleWebKit/537.36 (KHTML, like Gecko) "
+                             "Chrome/123.0.0.0 Safari/537.36"),
+              "Accept-Language": "en-US,en;q=0.9",
+          })
+          try:
+              html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+          except Exception as e:
+              print(f"::error::request failed: {e}")
+              sys.exit(1)
+
+          # 主页统计表里第一个 gsc_rsb_std 就是“总引用数(All)”
+          m = re.search(r'gsc_rsb_std">([\d,]+)<', html)
+          if not m:
+              # 没匹配到，多半被 Scholar 拦了机器人页；打印前 300 字便于排查
+              print("::error::citation count not found — Scholar may have served a robot page.")
+              print(html[:300])
+              sys.exit(1)
+
+          count = m.group(1).replace(",", "")
+          print(f"Parsed citations = {count}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"count={count}\n")
 
       - name: Write badge JSON to Gist
         uses: schneegans/dynamic-badges-action@v1.7.0
