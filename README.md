@@ -122,8 +122,8 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | Venue | Paper | Links |
 |:------|:------|:------|
-| **TKDE**<sup>†</sup> | **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
-| **VLDB**<sup>†</sup> | **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
+| **TKDE**<sup>†</sup> <br> *(CCF A)*| **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus) · [Code](https://github.com/usail-hkust/NRFormer_Plus) |
+| **VLDB**<sup>†</sup> <br> *(CCF A)*| **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/) · [Code](https://github.com/ProfiLLM/ProfiLLM) |
 | **IEEE&nbsp;TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695) · [Code](https://github.com/usail-hkust/LLM-ODDR) |
 | **KDD&nbsp;2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT) |
 | **KDD&nbsp;2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586) · [Code](https://github.com/usail-hkust/AutoSTF) |
