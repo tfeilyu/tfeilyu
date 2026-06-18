@@ -1,0 +1,47 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# 把这个文件放到你的 profile 仓库里,路径必须是:
+#     tfeilyu/tfeilyu/.github/workflows/scholar-badge.yml
+# (GitHub 只识别仓库根目录下的 .github/workflows/。本地这个 profile_repo/ 前缀
+#  只是为了暂存、避免在 MyInfo 仓库里误触发,复制时去掉 profile_repo/ 即可。)
+#
+# 用前替换:把下面的 __GIST_ID__ 改成你自己 Gist 的 ID。
+# 依赖的仓库 secret:GIST_SECRET(一个带 gist 权限的 Personal Access Token)。
+# ─────────────────────────────────────────────────────────────────────────────
+name: Update Google Scholar badge
+
+on:
+  schedule:
+    - cron: "0 8 * * *"        # 每天 08:00 UTC 跑一次
+  workflow_dispatch: {}         # 也可在 Actions 页手动触发
+
+permissions:
+  contents: read
+
+jobs:
+  scholar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch citation count from Google Scholar
+        id: cites
+        run: |
+          pip install --quiet gsbg
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          from gsbg import fetch_profile_citation_num
+          n = fetch_profile_citation_num("FfZKK9sAAAAJ")   # 你的 Scholar ID
+          assert n and int(n) > 0, f"unexpected citation count: {n!r}"
+          print(f"count={int(n)}")
+          PY
+
+      - name: Write badge JSON to Gist
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: __GIST_ID__
+          filename: scholar.json
+          label: Google Scholar
+          message: ${{ steps.cites.outputs.count }} citations
+          color: 4285F4
