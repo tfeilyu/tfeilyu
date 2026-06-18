@@ -49,12 +49,12 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
 
 ## 📊 By the numbers
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/CCF--A_papers-5_(first%2Fco--first)-success?style=flat" alt="CCF-A papers">
   <img src="https://img.shields.io/badge/IEEE_Transactions-2_(first--author)-blue?style=flat" alt="IEEE Transactions">
   <img src="https://img.shields.io/badge/Citations-~580-orange?style=flat" alt="Citations">
   <img src="https://img.shields.io/badge/Production_deployments-2-red?style=flat" alt="Deployments">
-</p>
+</p> -->
 
 - 🏆 **5 first-author CCF-A papers** (KDD, IJCAI, SIGIR)
 - 📚 **2 first-author IEEE Transactions papers** (TITS, TCBB)
