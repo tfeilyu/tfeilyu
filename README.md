@@ -54,14 +54,14 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/CCF--A_papers-5_(first%2Fco--first)-success?style=flat" alt="CCF-A papers">
   <img src="https://img.shields.io/badge/IEEE_Transactions-2_(first--author)-blue?style=flat" alt="IEEE Transactions">
-  <img src="https://img.shields.io/badge/Citations-~580-orange?style=flat" alt="Citations">
-  <img src="https://img.shields.io/badge/Production_deployments-2-red?style=flat" alt="Deployments">
+  <img src="https://img.shields.io/badge/Citations-600%2B-orange?style=flat" alt="Citations">
+  <img src="https://img.shields.io/badge/Production_deployments-3-red?style=flat" alt="Deployments">
 </p> -->
 
 - 🏆 **5 published first-author CCF-A papers** (KDD, IJCAI, SIGIR)
 - 📚 **2 first-author IEEE Transactions papers** (TITS, TCBB)
 - 📝 **5 first/co-first author papers under review** (VLDB, TKDE, KDD ×2, NMI)
-- 📈 **~580 citations** (Google Scholar)
+- 📈 **600+ citations** (Google Scholar)
 - 🌍 **3 real-world deployments** — ProfiLLM & DispatchEvolve on DiDi Brazil; NRFormer online nationwide
 
 ---
