@@ -89,7 +89,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 **🔬 AI for Science**
 - **TelePiT** — Physics-Informed Teleconnection-Aware Transformer for global **subseasonal-to-seasonal forecasting**. [arXiv](https://arxiv.org/abs/2506.08049) · [Code](https://github.com/usail-hkust/TelePiT)
 - **NRFormer** — spatio-temporal transformer for **nationwide nuclear-radiation forecasting**, deployed online. [arXiv](https://arxiv.org/abs/2410.11924) · [Code](https://github.com/usail-hkust/NRFormer)
-- **NRFormer+** — *atmospheric diffusion-guided* spatio-temporal transformer extending NRFormer for nuclear-radiation forecasting. [Code](https://github.com/usail-hkust/NRFormer_Plus) · *(TKDE, under review)*
+- **NRFormer+** — *atmospheric diffusion-guided* spatio-temporal transformer extending NRFormer for nuclear-radiation forecasting. [arXiv](https://arxiv.org/abs/2607.24774) · [Code](https://github.com/usail-hkust/NRFormer_Plus) · *(TKDE, under review)*
 - **MDNN** — multimodal deep neural net for **drug–drug interaction events**. [Paper](https://www.ijcai.org/proceedings/2021/487)
 - **MGNN** — multimodal GNN for **cancer patient survival**. [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401214)
 
@@ -126,7 +126,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | Venue | Paper | Links |
 |:------|:------|:------|
-| **TKDE**<sup>†</sup> <br> *(CCF A)*| **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://github.com/usail-hkust/NRFormer_Plus)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/NRFormer_Plus) |
+| **TKDE**<sup>†</sup> <br> *(CCF A)*| **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2607.24774)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/NRFormer_Plus) |
 | **VLDB**<sup>†</sup> <br> *(CCF A)*| **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/)&nbsp;·&nbsp;[Code](https://github.com/ProfiLLM/ProfiLLM) |
 | **KDD&nbsp;2027**<sup>†</sup> <br> *(CCF A)* | **DispatchEvolve**: Autonomous Policy Evolution for Industrial Ride-Hailing Dispatch Engines with Multi-Objective Constraints <br> <sub>Zirui Yuan\*, Tengfei Lyu\*, et al.</sub> | [Project](https://dispatchevolve.github.io/)&nbsp;·&nbsp;[Code](https://github.com/dispatchevolve/DispatchEvolve) |
 | **IEEE&nbsp;TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/LLM-ODDR) |
