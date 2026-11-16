@@ -61,7 +61,7 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
 - 🏆 **6 published first/co-first author CCF-A papers** (KDD, IJCAI, SIGIR)
 - 📚 **2 first-author IEEE Transactions papers** (TITS, TCBB)
 - 📝 **4 first/co-first author papers under review** (VLDB, TKDE, KDD, NMI)
-- 📈 **600+ citations** (Google Scholar)
+- 📈 **680+ citations** (Google Scholar)
 - 🌍 **3 real-world deployments** — ProfiLLM & DispatchEvolve on DiDi Brazil; NRFormer online nationwide
 
 ---
