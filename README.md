@@ -31,7 +31,7 @@
 - **🚕 ProfiLLM — live on DiDi (Brazil).** An agentic LLM framework with utility-aligned user profiling for industrial ride-hailing dispatch. **Deployed across three cities in Brazil, serving millions of daily orders, with verified live A/B-test gains.** <br>
 [🌐 Project](https://profillm.github.io/) · [💻 Code](https://github.com/ProfiLLM/ProfiLLM) · *(VLDB, under review)*
 - **⚙️ DispatchEvolve — live on DiDi (4 cities).** The first framework to bring LLM-driven program evolution to industrial dispatch engines: it autonomously discovers optimization opportunities from decision traces, evolves the implicated policies, and assembles them into complete engines under six coupled business objectives. **Deployed across four cities, the only method to improve all six objectives in every city offline, with live A/B gains up to +1.32% GMV and +1.07% completion rate.** <br>
-[🌐 Project](https://dispatchevolve.github.io/) · [💻 Code](https://github.com/dispatchevolve/DispatchEvolve) · *(KDD 2027 ADS, under review)*
+[🌐 Project](https://dispatchevolve.github.io/) · [💻 Code](https://github.com/dispatchevolve/DispatchEvolve) · *(KDD 2027 ADS, CCF A)*
 - **☢️ NRFormer — deployed nationwide.** A spatio-temporal transformer for nationwide nuclear-radiation forecasting, **online for 1–24 day forecasts.** <br>
 [📄 arXiv](https://arxiv.org/abs/2410.11924) · [💻 Code](https://github.com/usail-hkust/NRFormer) · *(KDD 2025, CCF A)*
 
@@ -58,9 +58,9 @@ I'm a final-year **Ph.D. candidate in the AI Thrust at The Hong Kong University 
   <img src="https://img.shields.io/badge/Production_deployments-3-red?style=flat" alt="Deployments">
 </p> -->
 
-- 🏆 **5 published first-author CCF-A papers** (KDD, IJCAI, SIGIR)
+- 🏆 **6 published first/co-first author CCF-A papers** (KDD, IJCAI, SIGIR)
 - 📚 **2 first-author IEEE Transactions papers** (TITS, TCBB)
-- 📝 **5 first/co-first author papers under review** (VLDB, TKDE, KDD ×2, NMI)
+- 📝 **4 first/co-first author papers under review** (VLDB, TKDE, KDD, NMI)
 - 📈 **600+ citations** (Google Scholar)
 - 🌍 **3 real-world deployments** — ProfiLLM & DispatchEvolve on DiDi Brazil; NRFormer online nationwide
 
@@ -72,7 +72,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 | Theme | Focus | Representative work |
 |:---|:---|:---|
-| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** (VLDB '27, under review) · **DispatchEvolve** (KDD '27 ADS, under review) · **LLM-ODDR** (IEEE TITS '26) |
+| 🤖 **LLM Agents for Decision-Making** | LLMs as autonomous agents for real-world transportation decisions | **ProfiLLM** (VLDB '27, under review) · **DispatchEvolve** (KDD '27 ADS) · **LLM-ODDR** (IEEE TITS '26) |
 | 🔬 **AI for Science** | Deep learning for climate, nuclear radiation, drug & cancer | **TelePiT** (KDD '26) · **NRFormer** (KDD '25) · **MDNN** (IJCAI '21) · **MGNN** (SIGIR '20) |
 | ⚙️ **Automated Machine Learning** | NAS for spatio-temporal data, graphs & molecules | **AutoSTF** (KDD '25) · **Auto-GNAS** (IEEE TPDS '22) · **GraphPAS** (SIGIR '21) |
 
@@ -105,6 +105,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 
 ## 📰 Recent news
 
+- **2026.11** 🎉 Two papers accepted to **KDD 2027** (ADS Track): **DispatchEvolve** (LLM-driven dispatch policy evolution) and **[GenMatch](https://arxiv.org/abs/2608.19751)** (generative order-dispatch matching).
 - **2026.07** ⚙️ Released **DispatchEvolve** — autonomous LLM-driven policy evolution for industrial dispatch engines, [deployed on DiDi across four cities](https://dispatchevolve.github.io/).
 - **2026.06** 🏆 **Best Research Award (First place)**, AI at HKUST Guangzhou.
 - **2026.05** 🚕 Released **ProfiLLM** — agentic LLM for ride-hailing dispatch, [deployed on DiDi Brazil](https://profillm.github.io/).
@@ -128,7 +129,7 @@ My work turns frontier AI into **deployed systems** that make consequential deci
 |:------|:------|:------|
 | **TKDE**<sup>†</sup> <br> *(CCF A)*| **NRFormer+**: Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear-Radiation Forecasting <br> <sub>Tengfei Lyu, Jindong Han, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2607.24774)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/NRFormer_Plus) |
 | **VLDB**<sup>†</sup> <br> *(CCF A)*| **ProfiLLM**: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch <br> <sub>Tengfei Lyu\*, Zirui Yuan\*, et al.</sub> | [Project](https://profillm.github.io/)&nbsp;·&nbsp;[Code](https://github.com/ProfiLLM/ProfiLLM) |
-| **KDD&nbsp;2027**<sup>†</sup> <br> *(CCF A)* | **DispatchEvolve**: Autonomous Policy Evolution for Industrial Ride-Hailing Dispatch Engines with Multi-Objective Constraints <br> <sub>Zirui Yuan\*, Tengfei Lyu\*, et al.</sub> | [Project](https://dispatchevolve.github.io/)&nbsp;·&nbsp;[Code](https://github.com/dispatchevolve/DispatchEvolve) |
+| **KDD&nbsp;2027** <br> *(CCF A)* | **DispatchEvolve**: Autonomous Policy Evolution for Industrial Ride-Hailing Dispatch Engines with Multi-Objective Constraints <br> <sub>Zirui Yuan\*, Tengfei Lyu\*, et al.</sub> | [Project](https://dispatchevolve.github.io/)&nbsp;·&nbsp;[Code](https://github.com/dispatchevolve/DispatchEvolve) |
 | **IEEE&nbsp;TITS** <br> *(CCF B)* | **LLM-ODDR**: Joint Order Dispatching and Driver Repositioning <br> <sub>Tengfei Lyu, Siyuan Feng, Hao Liu, Hai Yang</sub> | [arXiv](https://arxiv.org/abs/2505.22695)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/LLM-ODDR) |
 | **KDD&nbsp;2026** <br> *(CCF A)* | **TelePiT**: Physics-Informed Teleconnection-Aware Transformer <br> <sub>Tengfei Lyu, Weijia Zhang, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2506.08049)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/TelePiT) |
 | **KDD&nbsp;2025** <br> *(CCF A)* | **AutoSTF**: Decoupled NAS for Cost-Effective Spatio-Temporal Forecasting <br> <sub>Tengfei Lyu, Weijia Zhang, Jinliang Deng, Hao Liu</sub> | [arXiv](https://arxiv.org/abs/2409.16586)&nbsp;·&nbsp;[Code](https://github.com/usail-hkust/AutoSTF) |
